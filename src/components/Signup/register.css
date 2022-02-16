@@ -1,0 +1,13 @@
+.register{
+    background-image: url("../../images/default.jpg");
+    background-size: cover;
+}
+.register input[type=submit]{
+    border:none;
+    outline: none;
+    font-size: 1em;
+    background-color: #000000;
+    color: #fff;
+    padding: 10px;
+    margin: 5px;
+}
